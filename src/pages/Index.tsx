@@ -64,7 +64,7 @@ export default function Index() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold mb-4">
-              Everything You Need in <span className="gradient-primary bg-clip-text text-transparent">One Platform</span>
+              Everything You Need in One Platform
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               From planning to execution, manage every aspect of your event with our comprehensive tools.
@@ -95,7 +95,7 @@ export default function Index() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold mb-4">
-              How It <span className="gradient-primary bg-clip-text text-transparent">Works</span>
+              How It Works
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               Four simple steps to create the perfect event

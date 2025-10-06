@@ -16,8 +16,7 @@ export const EcoSection = () => {
             </div>
 
             <h2 className="text-4xl font-bold mb-6">
-              Celebrate Sustainably with{" "}
-              <span className="gradient-eco bg-clip-text text-transparent">Zero Waste</span>
+              Celebrate Sustainably with Zero Waste
             </h2>
 
             <p className="text-lg text-muted-foreground mb-8">

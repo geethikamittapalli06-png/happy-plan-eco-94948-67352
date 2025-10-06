@@ -40,7 +40,7 @@ export default function Profile() {
                 Green Score
               </h3>
               <div className="text-center">
-                <div className="text-4xl font-bold gradient-eco bg-clip-text text-transparent mb-2">
+                <div className="text-4xl font-bold text-secondary mb-2">
                   85/100
                 </div>
                 <Badge className="bg-secondary">Eco Champion</Badge>

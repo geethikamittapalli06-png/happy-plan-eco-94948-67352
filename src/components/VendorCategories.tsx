@@ -29,7 +29,7 @@ export const VendorCategories = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold mb-4">
-            Find Your Perfect <span className="gradient-primary bg-clip-text text-transparent">Vendors</span>
+            Find Your Perfect Vendors
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Connect with trusted professionals across all event categories. Real-time availability, instant booking.
